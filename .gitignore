@@ -1,0 +1,21 @@
+# Python derleme artıkları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+.venv/
+venv/
+env/
+
+# Oyun kayıtları (kullanıcı verisi — depoya girmemeli)
+kayitlar/
+
+# Test önbelleği
+.pytest_cache/
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
